@@ -16,3 +16,5 @@ Each practice exercise is in its own file – `practice-*.sql` – and can be 
 Once done, please submit this assignment per the instructions in Canvas.
 
 For educational purposes only.
+
+-- test
